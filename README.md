@@ -50,7 +50,7 @@ Users should be able to:
 ### Screenshot
 
   
-![active-states screenshot of the advice generator app](https://github.com/[idrisaltamimi]/[advice-generator-app/screenshot]/blob/[main]/active-states.png?raw=true)
+![active-states screenshot of the advice generator app](https://github.com/[idrisaltamimi]/[advice-generator-app]/blob/[screenshot]/active-states.png?raw=true)
   
 
   
